@@ -18,5 +18,12 @@ html {
     display: block;
     height: auto;
     margin: 0 auto;
+    border: 15px solid green;
+    position: relative;
+    left: 10px;  }
+  .left {
+    text-align:left;
   }
-  
+  #title {
+      color:indigo;
+  }
